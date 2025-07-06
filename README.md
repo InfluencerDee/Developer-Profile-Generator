@@ -21,7 +21,7 @@ This is a beginner-friendly Python terminal app that collects developer info (li
    ```bash
    git clone https://github.com/InfluencerDee/Developer-Profile-Generator.git
 
-   cd DevProfileGenerator
+   cd Developer-Profile-Generator
 
 2. Run the script:
    ```bash
